@@ -66,8 +66,8 @@ Key Insights
 
 - Power BI Dashboard - [View full interactive dashboard(PBIX)](https://drive.google.com/file/d/1ceCUOLNoE-AUXmihJ2nShfhIl9gWEfnJ/view?usp=sharing)
 - Dataset files  - [View full dataset](https://drive.google.com/file/d/1ceCUOLNoE-AUXmihJ2nShfhIl9gWEfnJ/view?usp=sharing)
-- Screenshots of dashboards - 
-- SQL scripts 
+- Screenshots of dashboards - View all screenshots here - [Images Folder](images/)
+- SQL scripts - All SQL scripts used in this project can be found here: [sql Folder](sql/)
 
 
 👨‍💻 Author
