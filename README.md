@@ -64,9 +64,9 @@ Key Insights
 
  Project Files
 
-- Power BI Dashboard 
-- Dataset files 
-- Screenshots of dashboards
+- Power BI Dashboard - [View full interactive dashboard(PBIX)](https://drive.google.com/file/d/1ceCUOLNoE-AUXmihJ2nShfhIl9gWEfnJ/view?usp=sharing)
+- Dataset files  - [View full dataset](https://drive.google.com/file/d/1ceCUOLNoE-AUXmihJ2nShfhIl9gWEfnJ/view?usp=sharing)
+- Screenshots of dashboards - 
 - SQL scripts 
 
 
