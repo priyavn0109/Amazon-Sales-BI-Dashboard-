@@ -47,6 +47,12 @@ This project presents an end-to-end Business Intelligence solution built using A
 - Geographic customer analysis
 - Seasonal demand planning
 
+Project highlights
+
+- 25+ business intelligence visualizations
+- Interactive filtering and drill-down
+- Executive-level dashboard design
+
 Key Insights
 
 - Metro cities dominate customer base and revenue
